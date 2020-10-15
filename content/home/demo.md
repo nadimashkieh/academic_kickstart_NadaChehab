@@ -25,7 +25,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkBlue"
+  gradient_start = "DarkYellow"
   gradient_end = "ForestGreen"
   
   # Background image.
