@@ -28,7 +28,7 @@ subtitle = ""
   show_interests = true
 
 [design.background]
-  Apply a background color, gradient, or image.
+  # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
