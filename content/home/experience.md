@@ -24,17 +24,17 @@ date_format = "Oct 2006"
   company = "Samuel Johnson's Dictionary Project Research Intensive I"
   company_url = "https://www.ucf.edu"
   location = "Orlando, Florida"
-  date_start = "Oct 2006"
-  date_end = "Dec 2006"
+  date_start = "2019-10-01"
+  date_end = "2019-11-01"
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
 [[experience]]
   subtitle = "Research-Related Engagements"
   title = "Moving Forward Together 3 Volunteer"
   company = "University of South Carolina"
-  company_url= "American Cancer Society"
+  company_url= "https://sc.edu"
   date_start = "2018-08-01"
-  date_end = "2018-08-01"
+  date_end = "2019-12-01"
   description = "Participated in the Moving Forward Together 3 study coaching cancer survivors motivating them to become more physically active."
 
 
