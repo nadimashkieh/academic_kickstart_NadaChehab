@@ -23,8 +23,6 @@ subtitle = "Research-Related Engagements"
   project = "Samuel Johnson's Dictionary Project Research Intensive I"
   organization_url = "https://www.ucf.edu"
   location = "Orlando, Florida"
-  date_start = ""
-  date_end = ""
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
 +++
