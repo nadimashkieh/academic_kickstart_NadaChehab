@@ -61,7 +61,7 @@ subtitle = "Education-Related Experience"
   organization_url = "https://www.wyzant.com"
   date_start = "Summer 2015"
   date_end = "Spring 2017"
-  description = "K Tutoring in Arabic, Microbiology, Chemistry, Math                                                                          
+  description = "K Tutoring in Arabic, Microbiology, Chemistry, Math"                                                                         
 
 [[experience]]  
 subtitle = "Healthcare"
