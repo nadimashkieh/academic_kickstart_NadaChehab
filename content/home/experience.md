@@ -34,7 +34,8 @@ date_format = "Jun 2006"
   company = "University of South Carolina"
   company_url= "American Cancer Society"
   date_start = "Aug 2018"
-  date_end = "Dec 2019"description = "Participated in the Moving Forward Together 3 study coaching cancer survivors motivating them to become more physically active."
+  date_end = "Dec 2019"
+  description = "Participated in the Moving Forward Together 3 study coaching cancer survivors motivating them to become more physically active."
 
 
 +++
