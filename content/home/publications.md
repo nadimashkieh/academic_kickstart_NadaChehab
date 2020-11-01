@@ -27,9 +27,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
 [content.filters]
     tag = ""
-    category = "mystery"
-    publication_type = "fiction"
-    author = "Agatha Christy"
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
@@ -47,7 +47,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "orange"
+  color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

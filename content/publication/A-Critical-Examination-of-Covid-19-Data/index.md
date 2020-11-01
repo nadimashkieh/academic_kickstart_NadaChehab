@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Critical Examination of Covid 19 Data"
-authors: []
+authors: [Nada Chehab]
 date: 2020-11-01T12:57:10-05:00
 doi: ""
 
