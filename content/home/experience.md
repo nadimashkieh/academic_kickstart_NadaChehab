@@ -30,8 +30,8 @@ subtitle = "Research-Related Engagements"
 [[experience]]
 subtitle = "Research-Related Engagements"
   title = "Moving Forward Together 3 Volunteer"
-  organization = "University of South Carolina"
-  organization = "American Cancer Society"
+  Research_organization = "University of South Carolina"
+  Volunteer_organization = "American Cancer Society"
   date_start = "August 2018"
   date_end = "December 2019"
   description = "Participated in the Moving Forward Together 3 study, where I coached cancer survivors to motivate them to become more physically active."
@@ -98,5 +98,5 @@ subtitle = "Healthcare"
   date_start = "Fall 1991"
   date_end = "Fall 1992"
   description = "Ran the Endocrinology and Allergy section."
-  
+
 +++
