@@ -81,4 +81,22 @@ subtitle = "Healthcare"
   date_start = "1992-10-01"
   date_end = "2003-11-01"
   description = "Supervised the hospital laboratory department for medical technological and administrative activities."
+
+[[experience]]  
+subtitle = "Healthcare"
+  title = "Laboratory Technologist"
+  company = "Freiji Agri-Business"
+  location = "Lebanon"
+  date_start = "2001-10-01"
+  date_end = "2003-11-01"
+  description = "Ran the veterinary lab part-time."
+
+[[experience]]  
+subtitle = "Healthcare"
+  title = "Laboratory Technologist"
+  company = "Dr. Maacaron Laboratories"
+  location = "Lebanon"
+  date_start = "1991-09-01"
+  date_end = "1992-10-01"
+  description = "Ran the Endocrinology and Allergy section." 
 +++
