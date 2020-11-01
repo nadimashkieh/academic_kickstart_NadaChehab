@@ -46,7 +46,7 @@ date_format = "Oct 2006"
   date_end = "2017-12-01"
   description = "Researched English learning options and jobs for refugees."
 
-[experience]]  
+[[experience]]  
 subtitle = "Education-Related Experience"
   title = "Certified Rater"
   company = "Educational Testing Service"
@@ -54,5 +54,14 @@ subtitle = "Education-Related Experience"
   date_start = "2015-03-01"
   date_end = ""
   description = "K - 12 Student Assessment - CAASPP Scoring (PT & Non-PT)"
-  
+
+[[experience]] 
+subtitle = "Education-Related Experience"
+  title = "Tutor"
+  company = "Wyzant"
+  company_url = "https://www.wyzant.com"
+  date_start = "2015-07-01"
+  date_end = "2017-04-01"
+  description = "K Tutoring in Arabic, Microbiology, Chemistry, Math"                                                                         
+
 +++
