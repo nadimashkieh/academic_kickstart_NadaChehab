@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,86 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+subtitle = "Research-Related Engagements"
+  title = "Volunteer Research Associate"
+  project = "Samuel Johnson's Dictionary Project Research Intensive I"
+  organization_url = "https://www.ucf.edu"
+  location = "Orlando, Florida"
+  date_start = "October 2019"
+  date_end = "November 2019"
+  description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
+    """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+subtitle = "Research-Related Engagements"
+  title = "Moving Forward Together 3 Volunteer"
+  organization = "University of South Carolina"
+  organization = "American Cancer Society"
+  date_start = "August 2018"
+  date_end = "December 2019"
+  description = "Participated in the Moving Forward Together 3 study, where I coached cancer survivors to motivate them to become more physically active."
+
+[(experience)]
+  title = "Employment and Outreach Coordinator"
+  organization = "Americorps VISTA"
+  local_organization = "Arab American Community Center"
+  location = "Orlando, Florida"
+  date_start = "August 2017"
+  date_end = "December 2017"
+  description = "Researched English learning options and jobs for refugees."
+
+[(experience)]  
+subtitle = "Education-Related Experience"
+  title = "Certified Rater"
+  organization = "Educational Testing Service"
+  organization_url = "http://ets.org"
+  date_start = "Spring 2015"
+  date_end = ""
+  description = "K - 12 Student Assessment - CAASPP Scoring (PT & Non-PT)"
+
+[(experience)] 
+subtitle = "Education-Related Experience"
+  title = "Tutor"
+  organization = "Wyzant"
+  organization_url = "https://www.wyzant.com"
+  date_start = "Summer 2015"
+  date_end = "Spring 2017"
+  description = "K Tutoring in Arabic, Microbiology, Chemistry, Math                                                                          
+
+[(experience)]  
+subtitle = "Healthcare"
+  title = "Volunteer"
+  organization = "Orlando Health South Seminole Hospital"
+  organization_url = "https://orlandohealth.com"
+  date_start = "Fall 2013"
+  date_end = "Spring 2014"
+  description = "Assisted in the creation and review of data tables and literature research for quality improvement projects."
+
+[(experience)]  
+subtitle = "Healthcare"
+  title = "Supervisor - Laboratory Technologist"
+  organization = "Mais Hospital"
+  location = "Lebanon"
+  date_start = "Fall 1992"
+  date_end = "Fall 2003"
+  description = "Supervised the hospital laboratory department for medical technological and administrative activities."
+
+[(experience)]  
+subtitle = "Healthcare"
+  title = "Laboratory Technologist"
+  organization = "Freiji Agri-Business"
+  location = "Lebanon"
+  date_start = "Fall 2001"
+  date_end = "Fall 2003"
+  description = "Ran the veterinary lab part-time."
+
+[(experience)]  
+subtitle = "Healthcare"
+  title = "Laboratory Technologist"
+  organization = "Dr. Maacaron Laboratories"
+  location = "Lebanon"
+  date_start = "Fall 1991"
+  date_end = "Fall 1992"
+  description = "Ran the Endocrinology and Allergy section."
 
 +++
