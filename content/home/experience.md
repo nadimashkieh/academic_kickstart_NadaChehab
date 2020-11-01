@@ -19,7 +19,7 @@ date_format = "Jun 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-subtitle = "Research-Related Engagements"
+  subtitle = "Research-Related Engagements"
   title = "Volunteer Research Associate"
   project = "Samuel Johnson's Dictionary Project Research Intensive I"
   organization_url = "https://www.ucf.edu"
@@ -27,7 +27,7 @@ subtitle = "Research-Related Engagements"
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
 [[experience]]
-subtitle = "Research-Related Engagements"
+ subtitle = "Research-Related Engagements"
   title = "Moving Forward Together 3 Volunteer"
   Research_organization = "University of South Carolina"
   Volunteer_organization = "American Cancer Society"
