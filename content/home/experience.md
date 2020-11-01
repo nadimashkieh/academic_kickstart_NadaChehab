@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Jun 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,8 +23,8 @@ subtitle = "Research-Related Engagements"
   project = "Samuel Johnson's Dictionary Project Research Intensive I"
   organization_url = "https://www.ucf.edu"
   location = "Orlando, Florida"
-  date_start = "Oct 2019"
-  date_end = "Nov 2019"
+  date_start = ""
+  date_end = ""
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
 +++
