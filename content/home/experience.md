@@ -37,5 +37,22 @@ date_format = "Oct 2006"
   date_end = "2019-12-01"
   description = "Participated in the Moving Forward Together 3 study coaching cancer survivors motivating them to become more physically active."
 
+[[experience]]
+  title = "Employment and Outreach Coordinator"
+  company= "Americorps VISTA"
+  company_url = "https://www.nationalservice.gov"
+  location = "Orlando, Florida"
+  date_start = "2017-08-01"
+  date_end = "2017-12-01"
+  description = "Researched English learning options and jobs for refugees."
 
+[experience]]  
+subtitle = "Education-Related Experience"
+  title = "Certified Rater"
+  company = "Educational Testing Service"
+  company_url = "http://ets.org"
+  date_start = "2015-03-01"
+  date_end = ""
+  description = "K - 12 Student Assessment - CAASPP Scoring (PT & Non-PT)"
+  
 +++
