@@ -27,14 +27,14 @@ subtitle = "Research-Related Engagements"
   date_end = "November 2019"
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
-[[experience]]
+[[experience)]
 subtitle = "Research-Related Engagements"
   title = "Moving Forward Together 3 Volunteer"
   Research_organization = "University of South Carolina"
   Volunteer_organization = "American Cancer Society"
   date_start = "August 2018"
   date_end = "December 2019"
-  description = "Participated in the Moving Forward Together 3 study, where I coached cancer survivors to motivate them to become more physically active."
+  description = "Participated in the Moving Forward Together 3 study coaching cancer survivors motivating them to become more physically active."
 
 [(experience)]
   title = "Employment and Outreach Coordinator"
