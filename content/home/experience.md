@@ -64,4 +64,21 @@ subtitle = "Education-Related Experience"
   date_end = "2017-04-01"
   description = "K Tutoring in Arabic, Microbiology, Chemistry, Math"                                                                         
 
+[[experience]]  
+subtitle = "Healthcare"
+  title = "Volunteer"
+  company = "Orlando Health South Seminole Hospital"
+  company_url = "https://orlandohealth.com"
+  date_start = "2013-10-01"
+  date_end = "2014-04-01"
+  description = "Assisted in the creation and review of data tables and literature research for quality improvement projects."
+
+[[experience]]  
+subtitle = "Healthcare"
+  title = "Supervisor - Laboratory Technologist"
+  company = "Mais Hospital"
+  location = "Lebanon"
+  date_start = "1992-10-01"
+  date_end = "2003-11-01"
+  description = "Supervised the hospital laboratory department for medical technological and administrative activities."
 +++
