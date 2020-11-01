@@ -17,12 +17,5 @@ date_format = "Jun 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-subtitle = "Research-Related Engagements"
-  title = "Volunteer Research Associate"
-  project = "Samuel Johnson's Dictionary Project Research Intensive I"
-  organization_url = "https://www.ucf.edu"
-  location = "Orlando, Florida"
-  description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
 +++
