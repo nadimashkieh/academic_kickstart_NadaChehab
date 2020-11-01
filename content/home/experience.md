@@ -26,7 +26,6 @@ subtitle = "Research-Related Engagements"
   date_start = "October 2019"
   date_end = "November 2019"
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
-    """
 
 [[experience]]
 subtitle = "Research-Related Engagements"
@@ -99,5 +98,5 @@ subtitle = "Healthcare"
   date_start = "Fall 1991"
   date_end = "Fall 1992"
   description = "Ran the Endocrinology and Allergy section."
-
+  
 +++
