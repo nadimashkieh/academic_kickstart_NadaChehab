@@ -25,7 +25,7 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
+[content.filters]
     tag = ""
     category = "mystery"
     publication_type = "fiction"
@@ -47,7 +47,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "navy"
+  color = "orange"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
