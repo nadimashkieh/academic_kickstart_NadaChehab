@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[(experience)]
 subtitle = "Research-Related Engagements"
   title = "Volunteer Research Associate"
   project = "Samuel Johnson's Dictionary Project Research Intensive I"
@@ -27,7 +27,7 @@ subtitle = "Research-Related Engagements"
   date_end = "November 2019"
   description = "Researched John Milton’s quotations in Samuel Jackson’s dictionary."
 
-[[experience)]
+[(experience)]
 subtitle = "Research-Related Engagements"
   title = "Moving Forward Together 3 Volunteer"
   Research_organization = "University of South Carolina"
