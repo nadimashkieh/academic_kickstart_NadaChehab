@@ -15,7 +15,7 @@ role: Texts and Technology PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Central Florida
-  url: "www.ucf.edu"
+  url: "https://www.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed digital humanities, medical humanities, postcolonial studies, data visualization.
