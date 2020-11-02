@@ -1,4 +1,4 @@
-backend:
+pip installbackend:
   name: git-gateway
   branch: master
 media_folder: 'static/media/'
