@@ -80,3 +80,12 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+
+[[buttons]]
+  id = "startStopSound"
+  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
+  title = "Sound"
+  icon_pack = "fab"
+  icon = "tumblr"
+  enable = false
