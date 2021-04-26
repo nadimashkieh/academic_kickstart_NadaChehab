@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Making Sound</title>
+</head>
+<body>
+        <audio id="sound">
+                <source src="static/files/media/47-Waves-10min.mp3" />
+        </audio>
+
+
+        <div id="assessment">
+                <h1>click button to stop/start sound</h1>
+                <button id="startStopSound">Start/Stop Sound</button>
+        </div>
+</body>
+
+
+<script>
+    const mySound = document.getElementById("sound");
+    const startStopButton = document.getElementById("startStopSound");
+    var toggleSound = 0;
+
+    startStopButton.addEventListener("click", function(){
+    if( toggleSound == 0 )
+    {
+            mySound.play();
+            toggleSound = 1;
+    }
+    else
+    {
+            mySound.pause();
+            toggleSound = 0;
+    } })
+
+</script>
+</html>
+~      
+
